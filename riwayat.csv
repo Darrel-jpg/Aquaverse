@@ -1,0 +1,108 @@
+waktu,username,produk,jumlah,harga,total harga,metode
+06-12-2024 12:38:57,sandi,Sakura,2,4000,8000,Gopay
+06-12-2024 12:38:57,sandi,Aquarium ukuran S,2,90000,180000,Gopay
+06-12-2024 12:38:57,sandi,Koral,4,8000,32000,Gopay
+06-12-2024 12:41:55,sandi,Sakura,2,4000,8000,Gopay
+06-12-2024 12:41:55,sandi,Aquarium ukuran S,2,90000,180000,Gopay
+06-12-2024 12:41:55,sandi,Koral,4,8000,32000,Gopay
+06-12-2024 12:42:17,sandi,Sakura,2,4000,8000,Gopay
+06-12-2024 12:42:17,sandi,Aquarium ukuran S,2,90000,180000,Gopay
+06-12-2024 12:42:17,sandi,Koral,4,8000,32000,Gopay
+06-12-2024 13:37:52,sandi,Aquarium Ukuran L,5,150000,750000,Bank Mandiri
+06-12-2024 13:37:52,sandi,Aquarium ukuran M,2,120000,240000,Bank Mandiri
+06-12-2024 17:12:36,zekken,Koral,4,8000,32000,Gopay
+06-12-2024 17:12:36,zekken,Kayu Rasamala,3,10000,30000,Gopay
+06-12-2024 17:40:20,zekken,Filter air,5,70000,350000,Gopay
+06-12-2024 17:40:20,zekken,Aquarium ukuran S,3,90000,270000,Gopay
+06-12-2024 17:40:20,zekken,Aquarium 3 in 1 dengan ukuran S M L,2,320000,640000,Gopay
+06-12-2024 17:40:20,zekken,Aquarium ukuran M,4,120000,480000,Gopay
+06-12-2024 17:40:20,zekken,Koral,4,8000,32000,Gopay
+06-12-2024 17:40:20,zekken,Kayu Rasamala,3,10000,30000,Gopay
+06-12-2024 18:05:07,anjay,Asahi,5,4000,20000,Gopay
+06-12-2024 18:05:07,anjay,Ikan Hias Spotted Headstander,2,25000,50000,Gopay
+06-12-2024 20:46:43,bagus,Ikan Hias Tropheus Moorii,44,20000,880000,Gopay
+06-12-2024 21:03:20,bagus,Red Gravel,44,5000,220000,Gopay
+06-12-2024 21:03:20,bagus,Ikan Hias Spotted Headstander,31,25000,775000,Gopay
+06-12-2024 21:03:20,bagus,Pasir Silika,3,8000,24000,Gopay
+06-12-2024 21:03:20,bagus,Asahi,4,4000,16000,Gopay
+06-12-2024 21:03:20,bagus,Aquarium ukuran S,1,90000,90000,Gopay
+06-12-2024 21:03:20,bagus,Ikan Hias Cupang,3,15000,45000,Gopay
+06-12-2024 21:03:20,bagus,Kayu Branch,2,10000,20000,Gopay
+06-12-2024 21:10:03,bagus,Asahi,1,4000,4000,Bank Mandiri
+06-12-2024 21:12:48,bagus,Pasir Silika,22,8000,176000,Bank Mandiri
+07-12-2024 11:09:22,sandi,Sakura,2,4000,8000,Gopay
+07-12-2024 11:09:22,sandi,Filter air,6,70000,420000,Gopay
+07-12-2024 11:09:22,sandi,Aquarium ukuran S,2,90000,180000,Gopay
+07-12-2024 11:09:22,sandi,Koral,4,8000,32000,Gopay
+07-12-2024 11:09:22,sandi,Aquarium Ukuran L,6,150000,900000,Gopay
+07-12-2024 11:09:22,sandi,Aquarium Ukuran L,5,150000,750000,Gopay
+07-12-2024 11:09:22,sandi,Aquarium ukuran M,2,120000,240000,Gopay
+07-12-2024 11:09:22,sandi,Filter air,5,70000,350000,Gopay
+07-12-2024 11:42:41,sandi,Sakura,2,4000,8000,Gopay
+07-12-2024 11:42:41,sandi,Filter air,6,70000,420000,Gopay
+07-12-2024 11:42:41,sandi,Aquarium ukuran S,2,90000,180000,Gopay
+07-12-2024 11:42:41,sandi,Koral,4,8000,32000,Gopay
+07-12-2024 11:42:41,sandi,Aquarium Ukuran L,6,150000,900000,Gopay
+07-12-2024 11:42:41,sandi,Aquarium Ukuran L,5,150000,750000,Gopay
+07-12-2024 11:42:41,sandi,Aquarium ukuran M,2,120000,240000,Gopay
+07-12-2024 11:42:41,sandi,Filter air,5,70000,350000,Gopay
+07-12-2024 11:44:49,sandi,Sakura,2,4000,8000,Ovo
+07-12-2024 11:44:49,sandi,Filter air,6,70000,420000,Ovo
+07-12-2024 11:44:49,sandi,Aquarium ukuran S,2,90000,180000,Ovo
+07-12-2024 11:44:49,sandi,Koral,4,8000,32000,Ovo
+07-12-2024 11:44:49,sandi,Aquarium Ukuran L,6,150000,900000,Ovo
+07-12-2024 11:44:49,sandi,Aquarium Ukuran L,5,150000,750000,Ovo
+07-12-2024 11:44:49,sandi,Aquarium ukuran M,2,120000,240000,Ovo
+07-12-2024 11:44:49,sandi,Filter air,5,70000,350000,Ovo
+07-12-2024 11:47:02,sandi,Sakura,2,4000,8000,Ovo
+07-12-2024 11:47:02,sandi,Filter air,6,70000,420000,Ovo
+07-12-2024 11:47:02,sandi,Aquarium ukuran S,2,90000,180000,Ovo
+07-12-2024 11:47:02,sandi,Koral,4,8000,32000,Ovo
+07-12-2024 11:47:02,sandi,Aquarium Ukuran L,6,150000,900000,Ovo
+07-12-2024 11:47:02,sandi,Aquarium Ukuran L,5,150000,750000,Ovo
+07-12-2024 11:47:02,sandi,Aquarium ukuran M,2,120000,240000,Ovo
+07-12-2024 11:47:02,sandi,Filter air,5,70000,350000,Ovo
+07-12-2024 11:50:52,sandi,Sakura,2,4000,8000,Gopay
+07-12-2024 11:50:52,sandi,Filter air,6,70000,420000,Gopay
+07-12-2024 11:50:52,sandi,Aquarium ukuran S,2,90000,180000,Gopay
+07-12-2024 11:50:52,sandi,Koral,4,8000,32000,Gopay
+07-12-2024 11:50:52,sandi,Aquarium Ukuran L,6,150000,900000,Gopay
+07-12-2024 11:50:52,sandi,Aquarium Ukuran L,5,150000,750000,Gopay
+07-12-2024 11:50:52,sandi,Aquarium ukuran M,2,120000,240000,Gopay
+07-12-2024 11:50:52,sandi,Filter air,5,70000,350000,Gopay
+07-12-2024 12:03:34,sandi,Sakura,2,4000,8000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Filter air,6,70000,420000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Aquarium ukuran S,2,90000,180000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Koral,4,8000,32000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Aquarium Ukuran L,6,150000,900000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Aquarium Ukuran L,5,150000,750000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Aquarium ukuran M,2,120000,240000,Bank Mandiri
+07-12-2024 12:03:34,sandi,Filter air,5,70000,350000,Bank Mandiri
+07-12-2024 16:29:00,sandi,Filter air,22,70000,1540000,Bank Mandiri
+07-12-2024 16:35:00,sandi,Aquarium ukuran S,1,90000,90000,Bank Mandiri
+07-12-2024 16:36:16,sandi,Pasir Silika,21,8000,168000,Bank BRI
+07-12-2024 17:34:22,darrel,Filter air,3,70000,210000,Ovo
+07-12-2024 17:38:30,darrel,Ikan Hias Chili Rasbora,2,5000,10000,Ovo
+07-12-2024 17:38:30,darrel,Filter air,1,70000,70000,Ovo
+07-12-2024 17:41:40,darrel,Aquarium ukuran S,4,90000,360000,Gopay
+07-12-2024 17:41:40,darrel,Aquarium ukuran M,3,120000,360000,Gopay
+07-12-2024 17:41:40,darrel,Koral,3,8000,24000,Gopay
+07-12-2024 21:12:49,sandi,Asahi,3,4000,12000,Gopay
+08-12-2024 21:42:38,darrel,Sekat Aquarium,3,10000,30000,Bank BRI
+08-12-2024 21:42:38,darrel,Jaring Ikan,1,2000,2000,Bank BRI
+08-12-2024 21:42:38,darrel,Ikan Hias Guppy,5,10000,50000,Bank BRI
+10-12-2024 13:45:36,sandi,Ikan Hias Spotted Headstander,12,25000,300000,Bank Mandiri
+10-12-2024 13:50:11,sandi,Aquarium ukuran S,1,90000,90000,Bank BRI
+10-12-2024 13:50:25,sandi,Ikan Hias Spotted Headstander,3,25000,75000,Bank BCA
+10-12-2024 13:51:15,sandi,Filter air,2,70000,140000,Bank BCA
+10-12-2024 13:51:15,sandi,Ikan Hias Cupang,5,15000,75000,Bank BCA
+10-12-2024 21:16:49,sandi,Asahi,5,4000,20000,Bank BRI
+10-12-2024 21:16:49,sandi,Filter air,1,70000,70000,Bank BRI
+10-12-2024 21:16:49,sandi,Pasir Silika,6,8000,48000,Bank BRI
+10-12-2024 21:18:19,darrel,Filter air,47,70000,3290000,Bank BCA
+16-12-2024 11:43:21,sandi,Ikan Hias Cupang,10,15000,150000,Bank BCA
+16-12-2024 11:52:48,zaki,Takari,3,3000,9000,Bank Mandiri
+16-12-2024 11:54:51,zaki,Kayu Jati,3,5000,15000,Bank Mandiri
+16-12-2024 11:54:51,zaki,Ikan Hias Chili Rasbora,2,5000,10000,Bank Mandiri
+16-12-2024 11:56:22,zaki,Asahi,2,4000,8000,Gopay
+16-12-2024 11:56:22,zaki,Aquarium ukuran S,1,90000,90000,Gopay
